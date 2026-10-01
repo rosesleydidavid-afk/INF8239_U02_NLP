@@ -1,0 +1,3 @@
+name,url,license,language,rows,target,decision
+SMS Spam Collection,https://archive.ics.uci.edu/dataset/228/sms+spam+collection,CC0/Public Domain,English,5574,label (spam/ham),accepted
+Twitter US Airline Sentiment,https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment,CC0,English,14640,airline_sentiment (positive/negative/neutral),rejected - requires Kaggle account for reproducible access
