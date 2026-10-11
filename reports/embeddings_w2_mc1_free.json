@@ -1,0 +1,55 @@
+{
+  "word": "free",
+  "window": 2,
+  "min_count": 1,
+  "vector_size": 60,
+  "epochs": 30,
+  "seed": 42,
+  "documents": 5169,
+  "tokens": 73960,
+  "vocabulary": 8749,
+  "coverage": 1.0,
+  "in_vocabulary": true,
+  "neighbors": [
+    [
+      "calls",
+      0.7974
+    ],
+    [
+      "tarot",
+      0.7966
+    ],
+    [
+      "backdoor",
+      0.7713
+    ],
+    [
+      "1st",
+      0.7651
+    ],
+    [
+      "69200",
+      0.7568
+    ],
+    [
+      "auction",
+      0.7534
+    ],
+    [
+      "unlimited",
+      0.7524
+    ],
+    [
+      "svc",
+      0.7493
+    ],
+    [
+      "camcorder",
+      0.7463
+    ],
+    [
+      "entry",
+      0.7447
+    ]
+  ]
+}

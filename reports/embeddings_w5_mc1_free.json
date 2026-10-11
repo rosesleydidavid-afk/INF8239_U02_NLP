@@ -1,0 +1,55 @@
+{
+  "word": "free",
+  "window": 5,
+  "min_count": 1,
+  "vector_size": 60,
+  "epochs": 30,
+  "seed": 42,
+  "documents": 5169,
+  "tokens": 73960,
+  "vocabulary": 8749,
+  "coverage": 1.0,
+  "in_vocabulary": true,
+  "neighbors": [
+    [
+      "nokia",
+      0.8272
+    ],
+    [
+      "phones",
+      0.8204
+    ],
+    [
+      "tariffs",
+      0.8162
+    ],
+    [
+      "oranges",
+      0.8139
+    ],
+    [
+      "mad1",
+      0.8081
+    ],
+    [
+      "auction",
+      0.8066
+    ],
+    [
+      "calls",
+      0.8021
+    ],
+    [
+      "camera",
+      0.7975
+    ],
+    [
+      "unlimited",
+      0.7958
+    ],
+    [
+      "1st",
+      0.7934
+    ]
+  ]
+}
